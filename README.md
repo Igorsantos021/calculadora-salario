@@ -1,7 +1,7 @@
 # Calculadora de salário
 
 ## 📋 Descrição
-Baseado no valor por hora e na quantidade de horas trabalhadas culcula o quanto o usuario 
+Baseado no valor por hora e na quantidade de horas trabalhadas calcula o quanto o usuario 
 receberá por mes
 
 ## 📚 Funcionalidades
